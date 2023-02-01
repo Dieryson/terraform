@@ -1,5 +1,5 @@
 
 resource "aws_s3_bucket" "first_bucket" {
-  bucket = "aprendendo-terraform"
+  bucket = "dieryson-terraform"
 
 }
